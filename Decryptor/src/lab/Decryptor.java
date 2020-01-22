@@ -143,9 +143,8 @@ public class Decryptor {
         cypher.put(26, 'z');
 
         StringBuilder solution = new StringBuilder();
-
-        // TODO
-
+        for (int i : toDecrypt)
+            solution.append(cypher.get(i));
         solution.append('!');
         return solution.toString();
     }
