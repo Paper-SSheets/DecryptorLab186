@@ -97,9 +97,9 @@ public class Decryptor {
      * @param toDecrypt - The array to be decoded.
      */
     public static void divideArrayValues(int[] toDecrypt) {
-        // TODO
+        for (int i = 0; i < toDecrypt.length; i++)
+            toDecrypt[i] = toDecrypt[i] / 5;
     }
-
 
     /**
      * STEP 4: COMPLETE THIS METHOD. ONCE COMPLETED, HAVE THE TEAM MEMBER
