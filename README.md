@@ -31,4 +31,7 @@ hope you enjoyed your break!
 ```
 
 ## Afterward...
-Now that you have completed this, complete the project proposal template given to you and put it in the root of your repository. Email me once you have finished, and I'll check you off. :)
+- Now that you have completed this, complete the project proposal template given to you and put it in the root of your repository. Email me once you have finished, and I'll check you off. :)
+
+## Expectations
+- I will need to see at least one commit from each team member to be satisfied to check this off. You can view commits by clicking `commits` in GitHub when you're in the root of your repository. For example, here's what my commit history looks like: https://gyazo.com/b6739f5155bafffe1eed7b905374d555
