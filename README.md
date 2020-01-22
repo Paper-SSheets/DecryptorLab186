@@ -2,7 +2,8 @@
 Lab for SE186X, a course at Iowa State.
 
 ## Starting Point
-1) 
+1) Copy the `.gitignore` file that I have into the root of your repository. 
+2) Know where to get the `Decryptor.java` file.
 
 ## Steps to Reproduce
 1) First, I cloned this repository.
