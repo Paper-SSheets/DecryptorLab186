@@ -35,3 +35,4 @@ hope you enjoyed your break!
 
 ## Expectations
 - I will need to see at least one commit from each team member to be satisfied to check this off. You can view commits by clicking `commits` in GitHub when you're in the root of your repository. For example, here's what my commit history looks like: https://gyazo.com/b6739f5155bafffe1eed7b905374d555
+- Your repository should look similar to mine. If it includes additional files (such as .classpath, etc, it's not a huge deal.
