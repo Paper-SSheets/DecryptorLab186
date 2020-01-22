@@ -36,3 +36,9 @@ hope you enjoyed your break!
 ## Expectations
 - I will need to see at least one commit from each team member to be satisfied to check this off. You can view commits by clicking `commits` in GitHub when you're in the root of your repository. For example, here's what my commit history looks like: https://gyazo.com/b6739f5155bafffe1eed7b905374d555
 - Your repository should look similar to mine. If it includes additional files (such as .classpath, etc, it's not a huge deal.
+- Make sure that I am one of the collaborators on your project, that way I can view your repository. When you email me telling me y'all finished, include the GitHub link to simplify it for me. Sample email:
+```
+hey steven, we finished the lab and report, check it out here 
+https://github.com/Paper-SSheets/DecryptorLab186
+```
+Only of the the people on your team has to send this email.
